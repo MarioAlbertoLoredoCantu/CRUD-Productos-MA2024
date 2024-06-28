@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PruebaEntityFrameworkCore
+build_property.RootNamespace = PruebaEntityFrameworkCore
+build_property.ProjectDir = C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\CRUD-Productos-MA2024-1\PruebaEntityFrameworkCore\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Manyra Cantú\Documents\Trabajos tetra 6 informatica\CRUD-Productos-MA2024-1\PruebaEntityFrameworkCore
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Category/CategoryAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Category/CategoryDeleted.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlEZWxldGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Category/CategoryEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Category/CategoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Product/ProductAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0QWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Product/ProductDeleted.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RGVsZXRlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Product/ProductEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Product/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Shared/_LinksLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MaW5rc0xvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Supplier/SupplierAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcU3VwcGxpZXJBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Supplier/SupplierDeleted.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcU3VwcGxpZXJEZWxldGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Supplier/SupplierEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcU3VwcGxpZXJFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Supplier/SupplierList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcU3VwcGxpZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/User/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/User/Registry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3RyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/User/_layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxfbGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Manyra Cantú/Documents/Trabajos tetra 6 informatica/CRUD-Productos-MA2024-1/PruebaEntityFrameworkCore/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uxqf2lqbb7

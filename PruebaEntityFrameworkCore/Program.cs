@@ -25,7 +25,7 @@ builder.Services.AddControllersWithViews();
 //  => opciones.UseSqlServer("name=MyConnectionTrust"));
 
  builder.Services.AddDbContext<ApplicationDbContext>(opciones 
- => opciones.UseNpgsql("name=PostgresConnection"));
+ => opciones.UseSqlServer("name=MyConnectionTrust"));
 
  AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
 
